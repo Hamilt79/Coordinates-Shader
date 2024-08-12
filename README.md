@@ -13,7 +13,7 @@ I suggest using the unity package in the release as a base for the best results.
 # Shader:
 -CoordsShader By Me!
 
-#Images: 
+
 ![image](https://github.com/user-attachments/assets/6d34237a-559e-44f0-8bf6-6d8ae3022d53)
 ![image](https://github.com/user-attachments/assets/8c17ff63-15cc-45f8-b6b3-9cb306f173ff)
 ![image](https://github.com/user-attachments/assets/fc7fb1fa-4bcb-47ca-82de-dce31a2342e5)
